@@ -8,9 +8,11 @@ Python, Keras
 ## Augmented Result
 
 -  Before
+
 ![image](AUGMENTATION/water_body/water_9.jpg)
 
 -  After
+
 ![image](AUGMENTATION/augmented.png)
 
 ## Refrences
