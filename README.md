@@ -3,16 +3,15 @@ Python, Keras
 
 ## File Structure
 
-![image]()
+![image](AUGMENTATION/File_structure.JPG)
 
 ## Augmented Result
--  Before
 
-![image]()
+-  Before
+![image](AUGMENTATION/water_body/water_9.jpg)
 
 -  After
-
-![image]()
+![image](AUGMENTATION/augmented.png)
 
 ## Refrences
 
