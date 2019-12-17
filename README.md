@@ -3,14 +3,16 @@ Python, Keras
 
 ## File Structure
 
-
-
+![image]()
 
 ## Augmented Result
+-  Before
 
+![image]()
 
+-  After
 
-
+![image]()
 
 ## Refrences
 
